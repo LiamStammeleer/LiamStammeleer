@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me : dicord, Realyy
+- 📫 How to reach me : discord, Realyy
 - 😄 Pronouns: he/he
 - ⚡ Fun fact: I like something
 
